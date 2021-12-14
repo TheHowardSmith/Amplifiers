@@ -1,0 +1,2643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="594mm"
+   viewBox="0 0 420 594"
+   version="1.1"
+   id="svg33"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Amplifier Box U2 TRACE.svg">
+  <defs
+     id="defs27">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern7350">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path2017-4"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern7350-4">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path2017-4-4"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern7350-6">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path2017-4-3"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern7350-9">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path2017-4-6"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern7350-7">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path2017-4-8"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern7350-41">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path2017-4-85"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern7350-41-3">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path2017-4-85-1"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern9050-2"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern9047-0"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern9043-6"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern9041-8"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern9037-9"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern8827-2"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern7413-7-8-6"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern7350-41-3-6">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path2017-4-85-1-4"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4797"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4799"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4801"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4803"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4805"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4807"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4809"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4811"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4815">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4813"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4818"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4820"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4822"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4824"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4826"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4828"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4830"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4832"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4836">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4834"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4839"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4841"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4843"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4845"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4847"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4849"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4851"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4853"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4857">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4855"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4860"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4862"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4864"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4866"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4868"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4870"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4872"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4874"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4878">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4876"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4881"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4883"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4885"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4887"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4889"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4891"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4893"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4895"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4899">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4897"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4902"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4904"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4906"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4908"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4910"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4912"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4914"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4916"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4920">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4918"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4923"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4925"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4927"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4929"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4931"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4933"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4935"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4937"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4941">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4939"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4944"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4946"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4948"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4950"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4952"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4954"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4956"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4958"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4962">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4960"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4965"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4967"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4969"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4971"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4973"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4975"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4977"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern4979"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern4983">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path4981"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern4986"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern4988"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern4990"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern4992"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern4994"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern4996"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern4998"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5000"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5004">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5002"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5007"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5009"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5011"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5013"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5015"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5017"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5019"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5021"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5025">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5023"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5028"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5030"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5032"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5034"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5036"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5038"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5040"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5042"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5046">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5044"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5049"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5051"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5053"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5055"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5057"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5059"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5061"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5063"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5067">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5065"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5070"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5072"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5074"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5076"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5078"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5080"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5082"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5084"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5088">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5086"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5091"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5093"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5095"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5097"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5099"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5101"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5103"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5105"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5109">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5107"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5112"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5114"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5116"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5118"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5120"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5122"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5124"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5126"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5130">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5128"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5133"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5135"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5137"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5139"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5141"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5143"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5145"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5147"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5151">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5149"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5154"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5156"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5158"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5160"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5162"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5164"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5166"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5168"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5172">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5170"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5175"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5177"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5179"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5181"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5183"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5185"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5187"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5189"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5193">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5191"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5196"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5198"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5200"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5202"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5204"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5206"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5208"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5210"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5214">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5212"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5217"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5219"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5221"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5223"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5225"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5227"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5229"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5231"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5235">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5233"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5238"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5240"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5242"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5244"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5246"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5248"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5250"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5252"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5256">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5254"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5259"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5261"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5263"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5265"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5267"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5269"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5271"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5273"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5277">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5275"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5280"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5282"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5284"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5286"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5288"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5290"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5292"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5294"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5298">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5296"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5301"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5303"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5305"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5307"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5309"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5311"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5313"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5315"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5319">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5317"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5322"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5324"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5326"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5328"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5330"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5332"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5334"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5336"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5340">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5338"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5343"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5345"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5347"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5349"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5351"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5353"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5355"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5357"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5361">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5359"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5364"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5366"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5368"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5370"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5372"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5374"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5376"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5378"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5382">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5380"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5385"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5387"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5389"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5391"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5393"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5395"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5397"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5399"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5403">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5401"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5406"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5408"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5410"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5412"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5414"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5416"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5418"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5420"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5424">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5422"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5427"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5429"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5431"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5433"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5435"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5437"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5439"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5441"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5445">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5443"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5448"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5450"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5452"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5454"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5456"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5458"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5460"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5462"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5466">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5464"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5469"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5471"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5473"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5475"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5477"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5479"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5481"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5483"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5487">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5485"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5490"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5492"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5494"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5496"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5498"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5500"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5502"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5504"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5508">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5506"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5511"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5513"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5515"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5517"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5519"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5521"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5523"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5525"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5529">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5527"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9050-2"
+       id="pattern5532"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-186.06644,-367.95669)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9047-0"
+       id="pattern5534"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-207.57142,-344.24607)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9043-6"
+       id="pattern5536"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-208.26068,-347.2099)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9041-8"
+       id="pattern5538"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-206.60645,-334.25177)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9037-9"
+       id="pattern5540"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-210.50551,-330.74262)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8827-2"
+       id="pattern5542"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-243.06263,-331.91234)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7413-7-8-6"
+       id="pattern5544"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-128.04048,-319.82527)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7350-41-3-6"
+       id="pattern5546"
+       patternTransform="matrix(0.61246204,0,0,0.61246032,-129.99001,-282.00443)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="18.286848"
+       height="15.674484"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,85.113907,-252.54883)"
+       id="pattern5550">
+      <path
+         transform="matrix(1.0616581,0,0,1.0503473,-268.20069,-141.32522)"
+         inkscape:transform-center-y="-0.094520772"
+         inkscape:transform-center-x="0.1309786"
+         d="m 269.68274,142.0066 -4.21787,7.31739 -8.44599,0.006 -4.22811,-7.31148 4.21787,-7.3174 8.44599,-0.006 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52289867"
+         sodipodi:arg1="-0.00070008725"
+         sodipodi:r2="4.1713176"
+         sodipodi:r1="8.4459867"
+         sodipodi:cy="142.01251"
+         sodipodi:cx="261.23676"
+         sodipodi:sides="6"
+         id="path5548"
+         style="fill:none;stroke:#000000;stroke-width:0.2882396;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47983068"
+     inkscape:cx="879.64369"
+     inkscape:cy="521.42095"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false"
+     inkscape:measure-start="1193.66,1069.14"
+     inkscape:measure-end="884.195,1133.24" />
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,297)">
+    <path
+       id="path7419"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 223.61902,176.25179 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6192 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m -10.2456,40.2207 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.61929 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.61921 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m -10.2456,51.7408 -5.54977,0.004 -2.77235,4.75688 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6192 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6192 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m -10.2456,63.2607 -5.54977,0.004 -2.77235,4.75688 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.61929 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.61921 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6192 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m -10.2456,63.2608 -5.54977,0.004 -2.77235,4.75688 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6192 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6192 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m -10.2456,51.7407 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.61929 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.61921 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m -10.2456,40.2208 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6193 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0992 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 0.0584,-11.6192 -5.54977,0.004 -2.77235,4.75687 2.7787,4.75435 5.54978,-0.005 2.77107,-4.75687 -0.014,-0.0239 z m -0.0584,0.0993 2.72027,4.6551 -2.71393,4.65636 -5.4342,0.004 -2.71901,-4.65384 2.71265,-4.65762 z m 64.14619,55.69719 c -0.45046,-0.0341 -0.91354,0.10295 -1.2832,0.41992 -0.73932,0.63395 -0.82561,1.7475 -0.19336,2.48828 0.63226,0.74079 1.74615,0.82988 2.48828,0.19922 0.74213,-0.63065 0.83403,-1.74274 0.20508,-2.48632 l -0.0762,0.0645 c 0.5941,0.70238 0.50764,1.74999 -0.19336,2.3457 -0.70101,0.59571 -1.75043,0.51224 -2.34766,-0.1875 -0.59722,-0.69973 -0.51671,-1.74883 0.18164,-2.34765 0.69835,-0.59883 1.74928,-0.51933 2.34961,0.17773 l 0.0762,-0.0664 c -0.31777,-0.36897 -0.75656,-0.57334 -1.20703,-0.60742 z m 0,-71.5 c -0.45046,-0.0341 -0.91354,0.10295 -1.2832,0.41992 -0.73932,0.63395 -0.82561,1.7475 -0.19336,2.48828 0.63226,0.74079 1.74615,0.82988 2.48828,0.19922 0.74213,-0.63065 0.83403,-1.74274 0.20508,-2.48632 l -0.0762,0.0644 c 0.5941,0.70238 0.50764,1.74999 -0.19336,2.3457 -0.70101,0.59571 -1.75043,0.51224 -2.34766,-0.1875 -0.59722,-0.69973 -0.51671,-1.74883 0.18164,-2.34765 0.69835,-0.59883 1.74928,-0.51933 2.34961,0.17773 l 0.0762,-0.0664 c -0.31777,-0.36897 -0.75656,-0.57334 -1.20703,-0.60742 z m -71.5,0 c -0.45046,-0.0341 -0.91354,0.10295 -1.2832,0.41992 -0.73932,0.63395 -0.82561,1.7475 -0.19336,2.48828 0.63226,0.74079 1.74615,0.82988 2.48828,0.19922 0.74213,-0.63065 0.83403,-1.74274 0.20508,-2.48632 l -0.0762,0.0644 c 0.5941,0.70238 0.50764,1.74999 -0.19336,2.3457 -0.70101,0.59571 -1.75043,0.51224 -2.34766,-0.1875 -0.59722,-0.69973 -0.51671,-1.74883 0.18164,-2.34765 0.69835,-0.59883 1.74928,-0.51933 2.34961,0.17773 l 0.0762,-0.0664 c -0.31777,-0.36897 -0.75656,-0.57334 -1.20703,-0.60742 z m 0,71.5 c -0.45046,-0.0341 -0.91354,0.10295 -1.2832,0.41992 -0.73932,0.63395 -0.82561,1.7475 -0.19336,2.48828 0.63226,0.74079 1.74615,0.82988 2.48828,0.19922 0.74213,-0.63065 0.83403,-1.74274 0.20508,-2.48632 l -0.0762,0.0645 c 0.5941,0.70238 0.50764,1.74999 -0.19336,2.3457 -0.70101,0.59571 -1.75043,0.51224 -2.34766,-0.1875 -0.59722,-0.69973 -0.51671,-1.74883 0.18164,-2.34765 0.69835,-0.59883 1.74928,-0.51933 2.34961,0.17773 l 0.0762,-0.0664 c -0.31777,-0.36897 -0.75656,-0.57334 -1.20703,-0.60742 z M 233.75,-5.5058594 c -1.49375,1.1e-6 -2.70508,1.2113256 -2.70508,2.7050782 0,1.4937525 1.21133,2.70703013 2.70508,2.7070312 1.49375,-1.07e-6 2.70508,-1.2132787 2.70508,-2.7070312 0,-1.4937526 -1.21133,-2.7050771 -2.70508,-2.7050782 z m 0,0.099609 c 1.43971,1e-6 2.60547,1.1657602 2.60547,2.6054688 0,1.4397085 -1.16576,2.60742079 -2.60547,2.60742182 -1.43971,-1.03e-6 -2.60547,-1.16771332 -2.60547,-2.60742182 0,-1.4397086 1.16576,-2.6054678 2.60547,-2.6054688 z m -89.25,-0.099609 c -1.49375,1.1e-6 -2.70508,1.2113256 -2.70508,2.7050782 0,1.4937525 1.21133,2.70703013 2.70508,2.7070312 1.49375,-1.07e-6 2.70508,-1.2132787 2.70508,-2.7070312 0,-1.4937526 -1.21133,-2.7050771 -2.70508,-2.7050782 z m 0,0.099609 c 1.43971,1e-6 2.60547,1.1657602 2.60547,2.6054688 0,1.4397085 -1.16576,2.60742079 -2.60547,2.60742182 -1.43971,-1.03e-6 -2.60547,-1.16771332 -2.60547,-2.60742182 0,-1.4397086 1.16576,-2.6054678 2.60547,-2.6054688 z m 89.25,86.1503914 c -1.49375,10e-7 -2.70508,1.211325 -2.70508,2.705078 0,1.493752 1.21133,2.70703 2.70508,2.707031 1.49375,-10e-7 2.70508,-1.213279 2.70508,-2.707031 0,-1.493753 -1.21133,-2.705077 -2.70508,-2.705078 z m 0,0.09961 c 1.43971,10e-7 2.60547,1.16576 2.60547,2.605469 0,1.439708 -1.16576,2.607421 -2.60547,2.607422 -1.43971,-10e-7 -2.60547,-1.167714 -2.60547,-2.607422 0,-1.439709 1.16576,-2.605468 2.60547,-2.605469 z m -89.25,-0.09961 c -1.49375,10e-7 -2.70508,1.211325 -2.70508,2.705078 0,1.493752 1.21133,2.70703 2.70508,2.707031 1.49375,-10e-7 2.70508,-1.213279 2.70508,-2.707031 0,-1.493753 -1.21133,-2.705077 -2.70508,-2.705078 z m 0,0.09961 c 1.43971,10e-7 2.60547,1.16576 2.60547,2.605469 0,1.439708 -1.16576,2.607421 -2.60547,2.607422 -1.43971,-10e-7 -2.60547,-1.167714 -2.60547,-2.607422 0,-1.439709 1.16576,-2.605468 2.60547,-2.605469 z M 169.8457,-271.125 c -0.49205,0.0394 -0.96899,0.26714 -1.31445,0.67188 -0.69092,0.80946 -0.59697,2.02601 0.21094,2.71874 0.8079,0.69274 2.02619,0.60131 2.7207,-0.20507 l -0.0762,-0.0664 c -0.65929,0.7655 -1.81119,0.85293 -2.57813,0.19531 -0.76693,-0.65761 -0.85705,-1.8097 -0.20117,-2.57812 0.65588,-0.76842 1.80827,-0.86122 2.57813,-0.20703 0.76985,0.65419 0.86534,1.80679 0.21289,2.57812 l 0.0762,0.0645 c 0.6873,-0.81254 0.58636,-2.02962 -0.22461,-2.71876 -0.40549,-0.34456 -0.91225,-0.49254 -1.4043,-0.45312 z m 140.00782,53.90039 c -0.49223,0.0372 -0.97111,0.26087 -1.31836,0.66406 l 0.0762,0.0664 c 0.65929,-0.7655 1.81119,-0.85293 2.57812,-0.19531 0.76693,0.65761 0.85705,1.8097 0.20117,2.57812 -0.65587,0.76843 -1.80826,0.86122 -2.57812,0.20703 -0.76986,-0.65419 -0.86535,-1.80679 -0.21289,-2.57812 l -0.0762,-0.0645 c -0.68731,0.81254 -0.58637,2.02962 0.22461,2.71876 0.81098,0.68913 2.02784,0.59072 2.71875,-0.21876 0.69091,-0.80946 0.59696,-2.02601 -0.21094,-2.71874 -0.40395,-0.34637 -0.91012,-0.49622 -1.40234,-0.45899 z m 0.29882,-53.90039 c -0.49205,-0.0394 -0.99881,0.10856 -1.40429,0.45312 -0.81098,0.68914 -0.91191,1.90622 -0.22461,2.71876 l 0.0762,-0.0645 c -0.65245,-0.77133 -0.55696,-1.92393 0.21289,-2.57812 0.76985,-0.65419 1.92225,-0.56139 2.57812,0.20703 0.65589,0.76842 0.56577,1.92051 -0.20117,2.57812 -0.76693,0.65762 -1.91883,0.57019 -2.57812,-0.19531 l -0.0762,0.0664 c 0.69451,0.80638 1.9128,0.89781 2.7207,0.20507 0.8079,-0.69273 0.90185,-1.90928 0.21094,-2.71874 -0.34546,-0.40474 -0.82241,-0.63246 -1.31446,-0.67188 z m -140.00781,53.90039 c -0.49222,-0.0372 -0.99839,0.11262 -1.40234,0.45899 -0.8079,0.69273 -0.90185,1.90928 -0.21094,2.71874 0.69091,0.80948 1.90777,0.90789 2.71875,0.21876 0.81098,-0.68914 0.91192,-1.90622 0.22461,-2.71876 l -0.0762,0.0645 c 0.65245,0.77133 0.55696,1.92393 -0.21289,2.57812 -0.76986,0.65419 -1.92225,0.5614 -2.57813,-0.20703 -0.65587,-0.76842 -0.56576,-1.92051 0.20117,-2.57812 0.76694,-0.65762 1.91884,-0.57019 2.57813,0.19531 l 0.0762,-0.0664 c -0.34725,-0.40319 -0.82614,-0.62683 -1.31836,-0.66406 z m -9.98828,-66.41992 v 82.6875 h 159.6875 v -82.6875 h -0.0508 z m 0.0996,0.10156 h 159.48828 v 82.48633 H 160.25586 Z m 189.51954,533.53711 c -2.03211,0 -3.67969,1.64953 -3.67969,3.68164 0,2.03211 1.64758,3.67969 3.67969,3.67969 2.03211,0 3.67969,-1.64758 3.67969,-3.67969 0,-2.03211 -1.64758,-3.68164 -3.67969,-3.68164 z m 0,0.10156 c 1.97806,0 3.58008,1.60202 3.58008,3.58008 0,1.97807 -1.60201,3.58008 -3.58008,3.58008 -1.97807,0 -3.58008,-1.60201 -3.58008,-3.58008 0,-1.97806 1.60202,-3.58008 3.58008,-3.58008 z M 127.62305,-273.63086 c -0.42075,-0.0318 -0.85203,0.0964 -1.19727,0.39258 -0.69048,0.59234 -0.77213,1.63402 -0.18164,2.32617 0.59049,0.69216 1.63111,0.77481 2.32422,0.18555 0.69311,-0.58927 0.77881,-1.62944 0.19141,-2.32422 l -0.0762,0.0644 c 0.55257,0.65357 0.47231,1.62929 -0.17968,2.1836 -0.652,0.5543 -1.62813,0.47728 -2.1836,-0.17383 -0.55547,-0.65111 -0.4796,-1.62835 0.16992,-2.18555 0.64953,-0.55721 1.62524,-0.48261 2.1836,0.16602 l 0.0762,-0.0664 c -0.29678,-0.34476 -0.70621,-0.53652 -1.12695,-0.56836 z m 0,59 c -0.42075,-0.0318 -0.85203,0.0964 -1.19727,0.39258 -0.69049,0.59234 -0.77214,1.63401 -0.18164,2.32617 0.5905,0.69216 1.63111,0.77482 2.32422,0.18555 0.69311,-0.58927 0.77881,-1.62944 0.19141,-2.32422 l -0.0762,0.0644 c 0.55257,0.65357 0.47231,1.62929 -0.17968,2.1836 -0.652,0.55431 -1.62812,0.47727 -2.1836,-0.17383 -0.55547,-0.65111 -0.4796,-1.62835 0.16992,-2.18555 0.64953,-0.55721 1.62524,-0.48261 2.1836,0.16602 l 0.0762,-0.0664 c -0.29678,-0.34476 -0.70621,-0.53652 -1.12695,-0.56836 z m -103.000003,-59 c -0.420745,-0.0318 -0.852024,0.0964 -1.197266,0.39258 -0.690481,0.59234 -0.772132,1.63402 -0.18164,2.32617 0.590492,0.69216 1.631105,0.77481 2.324218,0.18555 0.693113,-0.58927 0.778816,-1.62944 0.191407,-2.32422 l -0.07617,0.0644 c 0.55257,0.65357 0.472307,1.62929 -0.179688,2.1836 -0.651995,0.5543 -1.628123,0.47727 -2.183594,-0.17383 -0.555469,-0.6511 -0.479597,-1.62835 0.169922,-2.18555 0.649523,-0.5572 1.625232,-0.48261 2.183594,0.16602 l 0.07617,-0.0664 c -0.296783,-0.34476 -0.706208,-0.53652 -1.126953,-0.56836 z m 0,59 c -0.420745,-0.0318 -0.852024,0.0964 -1.197266,0.39258 -0.690488,0.59234 -0.772139,1.63402 -0.18164,2.32617 0.590495,0.69215 1.631108,0.77481 2.324218,0.18555 0.693113,-0.58927 0.778816,-1.62944 0.191407,-2.32422 l -0.07617,0.0644 c 0.55257,0.65357 0.472307,1.62929 -0.179688,2.1836 -0.651992,0.5543 -1.62812,0.47727 -2.183594,-0.17383 -0.555475,-0.65111 -0.479603,-1.62834 0.169922,-2.18555 0.649523,-0.5572 1.625232,-0.48261 2.183594,0.16602 l 0.07617,-0.0664 c -0.296783,-0.34476 -0.706208,-0.53652 -1.126953,-0.56836 z m 300.746093,347.3457 c -1.24982,-0.0945 -2.53438,0.28815 -3.56055,1.16797 -2.05233,1.75965 -2.2942,4.85008 -0.53906,6.90625 1.75514,2.05617 4.8461,2.30323 6.90625,0.55274 2.06015,-1.7505 2.31434,-4.84034 0.56836,-6.9043 l -0.0762,0.0644 c 1.71112,2.02277 1.46238,5.04812 -0.55664,6.76367 -2.01902,1.71556 -5.04552,1.47216 -6.76563,-0.54296 -1.7201,-2.01513 -1.48402,-5.04111 0.52735,-6.76563 2.01136,-1.72452 5.03852,-1.49377 6.76757,0.51367 l 0.0742,-0.0664 c -0.88214,-1.02417 -2.09588,-1.59492 -3.3457,-1.68946 z m -24,0 c -1.24982,-0.0945 -2.53438,0.28815 -3.56055,1.16797 -2.05233,1.75965 -2.2942,4.85008 -0.53906,6.90625 1.75514,2.05617 4.8461,2.30323 6.90625,0.55274 2.06015,-1.7505 2.31434,-4.84034 0.56836,-6.9043 l -0.0762,0.0644 c 1.71112,2.02277 1.46238,5.04812 -0.55664,6.76367 -2.01902,1.71556 -5.04552,1.47216 -6.76563,-0.54296 -1.7201,-2.01513 -1.48402,-5.04111 0.52735,-6.76563 2.01136,-1.72452 5.03852,-1.49377 6.76757,0.51367 l 0.0742,-0.0664 c -0.88214,-1.02417 -2.09588,-1.59492 -3.3457,-1.68946 z m 23.75586,48.63672 c -0.42131,-0.0319 -0.85546,0.0981 -1.20117,0.39453 -0.69143,0.59282 -0.77294,1.63346 -0.18164,2.32618 0.5913,0.69272 1.63407,0.77724 2.32812,0.1875 0.69406,-0.58974 0.77962,-1.63083 0.19141,-2.32618 l -0.0762,0.0645 c 0.55336,0.65414 0.47324,1.63075 -0.17969,2.18554 -0.65293,0.5548 -1.63124,0.4759 -2.1875,-0.17578 -0.55626,-0.65167 -0.47858,-1.6298 0.17187,-2.1875 0.65046,-0.55769 1.62639,-0.48317 2.18555,0.16602 l 0.0762,-0.0645 c -0.29719,-0.34504 -0.70564,-0.53845 -1.12695,-0.57032 z m 0,-27 c -0.42131,-0.0319 -0.85546,0.0981 -1.20117,0.39453 -0.69143,0.59282 -0.77294,1.63346 -0.18164,2.32618 0.5913,0.69272 1.63407,0.77724 2.32812,0.1875 0.69406,-0.58974 0.77962,-1.63083 0.19141,-2.32618 l -0.0762,0.0645 c 0.55336,0.65414 0.47324,1.63075 -0.17969,2.18554 -0.65293,0.5548 -1.63124,0.4759 -2.1875,-0.17578 -0.55626,-0.65167 -0.47858,-1.6298 0.17187,-2.1875 0.65046,-0.55769 1.62639,-0.48317 2.18555,0.16602 l 0.0762,-0.0645 c -0.29719,-0.34504 -0.70564,-0.53845 -1.12695,-0.57032 z m 0.61719,5.33789 c -2.50747,-0.18967 -5.08742,0.57631 -7.14649,2.3418 -4.11814,3.53099 -4.59993,9.72948 -1.07812,13.85547 3.52181,4.12599 9.7197,4.62395 13.85351,1.11133 4.13382,-3.51263 4.64405,-9.70994 1.14063,-13.85157 l -0.0762,0.0645 c 3.46856,4.10042 2.96379,10.23325 -1.12891,13.71094 -4.09269,3.47767 -10.22807,2.98533 -13.71484,-1.09961 -3.48678,-4.08495 -3.00882,-10.21899 1.06836,-13.71485 4.07717,-3.49586 10.21382,-3.03228 13.71875,1.03711 l 0.0762,-0.0644 c -1.77007,-2.05514 -4.20542,-3.20096 -6.71289,-3.39063 z M 301.125,181.35156 c -0.42131,-0.0319 -0.85546,0.0981 -1.20117,0.39453 -0.69143,0.59282 -0.77294,1.63346 -0.18164,2.32618 0.5913,0.69272 1.63407,0.77724 2.32812,0.1875 0.69406,-0.58974 0.77962,-1.63083 0.19141,-2.32618 l -0.0762,0.0645 c 0.55336,0.65414 0.47324,1.63075 -0.17969,2.18554 -0.65293,0.5548 -1.63124,0.4759 -2.1875,-0.17578 -0.55626,-0.65167 -0.47858,-1.6298 0.17187,-2.1875 0.65046,-0.55769 1.62639,-0.48317 2.18555,0.16602 l 0.0762,-0.0645 c -0.29719,-0.34504 -0.70564,-0.53845 -1.12695,-0.57032 z m 0,-27 c -0.42131,-0.0319 -0.85546,0.0981 -1.20117,0.39453 -0.69143,0.59282 -0.77294,1.63346 -0.18164,2.32618 0.5913,0.69272 1.63407,0.77724 2.32812,0.1875 0.69406,-0.58974 0.77962,-1.63083 0.19141,-2.32618 l -0.0762,0.0645 c 0.55336,0.65414 0.47324,1.63075 -0.17969,2.18554 -0.65293,0.5548 -1.63124,0.4759 -2.1875,-0.17578 -0.55626,-0.65167 -0.47858,-1.6298 0.17187,-2.1875 0.65046,-0.55769 1.62639,-0.48317 2.18555,0.16602 l 0.0762,-0.0645 c -0.29719,-0.34504 -0.70564,-0.53845 -1.12695,-0.57032 z m 0.61719,5.33789 c -2.50747,-0.18967 -5.08742,0.57631 -7.14649,2.3418 -4.11814,3.53099 -4.59993,9.72948 -1.07812,13.85547 3.52181,4.12599 9.7197,4.62395 13.85351,1.11133 4.13382,-3.51263 4.64405,-9.70994 1.14063,-13.85157 l -0.0762,0.0645 c 3.46856,4.10042 2.96379,10.23325 -1.12891,13.71094 -4.09269,3.47767 -10.22807,2.98533 -13.71484,-1.09961 -3.48678,-4.08495 -3.00882,-10.21899 1.06836,-13.71485 4.07717,-3.49586 10.21382,-3.03228 13.71875,1.03711 l 0.0762,-0.0644 c -1.77007,-2.05514 -4.20542,-3.20096 -6.71289,-3.39063 z m 85.57422,-23.8789 c -1.07085,-0.081 -2.17161,0.24617 -3.05079,1 -1.75835,1.50765 -1.96467,4.15626 -0.46093,5.91797 1.50373,1.7617 4.15096,1.97246 5.91601,0.47265 1.76506,-1.49981 1.98221,-4.14567 0.48633,-5.91406 l -0.0762,0.0644 c 1.46103,1.72719 1.24932,4.30857 -0.47461,5.77344 -1.72393,1.46487 -4.30669,1.25777 -5.77539,-0.46289 -1.4687,-1.72066 -1.26817,-4.30286 0.44922,-5.77539 1.71739,-1.47253 4.301,-1.27661 5.77734,0.4375 l 0.0762,-0.0664 c -0.75578,-0.8775 -1.79633,-1.36626 -2.86718,-1.44726 z m -29,-0.18946 c -1.07085,-0.081 -2.17161,0.24618 -3.05079,1 -1.75835,1.50766 -1.96467,4.15626 -0.46093,5.91797 1.50374,1.76171 4.15097,1.97247 5.91601,0.47266 1.76506,-1.49981 1.98221,-4.14568 0.48633,-5.91406 l -0.0762,0.0645 c 1.46103,1.72719 1.24932,4.30857 -0.47461,5.77344 -1.72392,1.46487 -4.30669,1.25777 -5.77539,-0.46289 -1.46871,-1.72067 -1.26817,-4.30286 0.44922,-5.77539 1.71739,-1.47253 4.301,-1.27661 5.77734,0.4375 l 0.0762,-0.0664 c -0.75578,-0.8775 -1.79633,-1.36626 -2.86718,-1.44727 z m 38.55664,22.01368 c -0.41312,-0.0312 -0.83876,0.0941 -1.17774,0.38476 -0.67795,0.58128 -0.75752,1.60397 -0.17773,2.2832 0.57979,0.67924 1.60071,0.7599 2.28125,0.18165 0.68053,-0.57826 0.7662,-1.59945 0.18945,-2.28126 l -0.0781,0.0645 c 0.5419,0.6406 0.46363,1.59731 -0.17578,2.14062 -0.63942,0.54332 -1.59588,0.46631 -2.14063,-0.17187 -0.54475,-0.63819 -0.47097,-1.59447 0.16602,-2.14063 0.63699,-0.54615 1.59499,-0.47364 2.14257,0.16211 l 0.0762,-0.0664 c -0.29141,-0.33833 -0.69236,-0.5254 -1.10547,-0.55664 z m -19.5,24.5 c -0.41312,-0.0312 -0.83876,0.0941 -1.17774,0.38476 -0.67795,0.58128 -0.75752,1.60397 -0.17773,2.2832 0.57978,0.67924 1.60071,0.7599 2.28125,0.18165 0.68054,-0.57826 0.76426,-1.59945 0.1875,-2.28126 l -0.0762,0.0645 c 0.5419,0.64061 0.46363,1.59731 -0.17578,2.14062 -0.63942,0.54331 -1.59588,0.46632 -2.14063,-0.17187 -0.54475,-0.63819 -0.47097,-1.59447 0.16602,-2.14063 0.63699,-0.54615 1.59499,-0.47364 2.14257,0.16211 l 0.0762,-0.0644 c -0.29141,-0.33832 -0.69236,-0.52735 -1.10547,-0.55859 z m 10.56054,-23.00391 c -3.15938,-0.23906 -6.40942,0.72586 -9.0039,2.95117 -5.18897,4.45062 -5.79694,12.26425 -1.35938,17.46485 4.43757,5.20059 12.24832,5.82787 17.45703,1.40039 5.20871,-4.42748 5.85189,-12.23869 1.4375,-17.45899 l -0.0781,0.0644 c 4.37954,5.17909 3.74181,12.92584 -1.42578,17.31836 -5.1676,4.39253 -12.91191,3.77088 -17.31446,-1.38867 -4.40254,-5.15954 -3.80034,-12.90873 1.34766,-17.32422 5.148,-4.41548 12.89681,-3.82934 17.32227,1.31055 l 0.0762,-0.0644 c -2.23033,-2.5904 -5.2996,-4.03438 -8.45899,-4.27344 z m -20.06054,-1.49609 c -0.41312,-0.0312 -0.83876,0.0941 -1.17774,0.38476 -0.67795,0.58128 -0.75752,1.60397 -0.17773,2.2832 0.57979,0.67924 1.60071,0.7599 2.28125,0.18165 0.68053,-0.57826 0.7662,-1.59945 0.18945,-2.28126 l -0.0781,0.0645 c 0.5419,0.6406 0.46363,1.59731 -0.17578,2.14062 -0.63942,0.54332 -1.59588,0.46631 -2.14063,-0.17187 -0.54475,-0.63819 -0.47097,-1.59447 0.16602,-2.14063 0.63699,-0.54615 1.59499,-0.47364 2.14257,0.16211 l 0.0762,-0.0664 c -0.29141,-0.33833 -0.69236,-0.5254 -1.10547,-0.55664 z m -19.5,24.5 c -0.41312,-0.0312 -0.83876,0.0941 -1.17774,0.38476 -0.67795,0.58128 -0.75752,1.60397 -0.17773,2.2832 0.57978,0.67924 1.60071,0.7599 2.28125,0.18165 0.68054,-0.57826 0.76426,-1.59945 0.1875,-2.28126 l -0.0762,0.0645 c 0.5419,0.64061 0.46363,1.59731 -0.17578,2.14062 -0.63942,0.54331 -1.59588,0.46632 -2.14063,-0.17187 -0.54475,-0.63819 -0.47097,-1.59447 0.16602,-2.14063 0.63699,-0.54615 1.59499,-0.47364 2.14257,0.16211 l 0.0762,-0.0644 c -0.29141,-0.33832 -0.69236,-0.52735 -1.10547,-0.55859 z m 10.56054,-23.00391 c -3.15938,-0.23906 -6.40942,0.72586 -9.0039,2.95117 -5.18897,4.45062 -5.79694,12.26425 -1.35938,17.46485 4.43757,5.20059 12.24832,5.82787 17.45703,1.40039 5.20871,-4.42748 5.85189,-12.23869 1.4375,-17.45899 l -0.0781,0.0644 c 4.37954,5.17909 3.74181,12.92584 -1.42578,17.31836 -5.1676,4.39253 -12.91191,3.77088 -17.31446,-1.38867 -4.40254,-5.15954 -3.80034,-12.90873 1.34766,-17.32422 5.148,-4.41548 12.89681,-3.82934 17.32227,1.31055 l 0.0762,-0.0644 c -2.23033,-2.5904 -5.2996,-4.03438 -8.45899,-4.27344 z M 262.10352,-223.9707 c -0.4364,-0.033 -0.88409,0.10115 -1.24219,0.4082 -0.71621,0.61411 -0.8,1.69257 -0.1875,2.41016 0.6125,0.71758 1.69122,0.80427 2.41015,0.19336 0.71894,-0.61091 0.80852,-1.68985 0.19922,-2.41016 l -0.0781,0.0644 c 0.57444,0.67911 0.49226,1.69357 -0.18555,2.26953 -0.67781,0.57597 -1.69207,0.49491 -2.26953,-0.18164 -0.57746,-0.67654 -0.49946,-1.69055 0.17578,-2.26953 0.67525,-0.57898 1.69101,-0.50209 2.27149,0.17188 l 0.0742,-0.0664 c -0.30784,-0.35743 -0.73156,-0.55683 -1.16796,-0.58984 z m 0,-39 c -0.4364,-0.033 -0.88409,0.10115 -1.24219,0.4082 -0.71621,0.61411 -0.8,1.69257 -0.1875,2.41016 0.6125,0.71758 1.69122,0.80427 2.41015,0.19336 0.71894,-0.61091 0.80852,-1.68985 0.19922,-2.41016 l -0.0781,0.0645 c 0.57444,0.67911 0.49226,1.69357 -0.18555,2.26953 -0.67781,0.57597 -1.69207,0.49491 -2.26953,-0.18164 -0.57746,-0.67654 -0.49946,-1.69055 0.17578,-2.26953 0.67525,-0.57898 1.69101,-0.50209 2.27149,0.17188 l 0.0742,-0.0664 c -0.30784,-0.35743 -0.73156,-0.55683 -1.16796,-0.58984 z m -45,0 c -0.4364,-0.033 -0.88409,0.10115 -1.24219,0.4082 -0.71621,0.61411 -0.8,1.69257 -0.1875,2.41016 0.6125,0.71758 1.69122,0.80427 2.41015,0.19336 0.71894,-0.61091 0.80852,-1.68985 0.19922,-2.41016 l -0.0781,0.0645 c 0.57444,0.67911 0.49226,1.69357 -0.18555,2.26953 -0.67781,0.57597 -1.69207,0.49491 -2.26953,-0.18164 -0.57746,-0.67654 -0.49946,-1.69055 0.17578,-2.26953 0.67525,-0.57898 1.69101,-0.50209 2.27149,0.17188 l 0.0742,-0.0664 c -0.30784,-0.35743 -0.73156,-0.55683 -1.16796,-0.58984 z m 0,39 c -0.4364,-0.033 -0.88409,0.10115 -1.24219,0.4082 -0.71621,0.61411 -0.8,1.69257 -0.1875,2.41016 0.6125,0.71758 1.69122,0.80427 2.41015,0.19336 0.71894,-0.61091 0.80852,-1.68985 0.19922,-2.41016 l -0.0781,0.0644 c 0.57444,0.67911 0.49226,1.69357 -0.18555,2.26953 -0.67781,0.57597 -1.69207,0.49491 -2.26953,-0.18164 -0.57746,-0.67654 -0.49946,-1.69055 0.17578,-2.26953 0.67525,-0.57898 1.69101,-0.50209 2.27149,0.17188 l 0.0742,-0.0664 c -0.30784,-0.35743 -0.73156,-0.55683 -1.16796,-0.58984 z m 66.9082,455.46875 c -0.37662,-0.0285 -0.76326,0.0847 -1.07227,0.34961 -0.61802,0.5299 -0.69064,1.46283 -0.16211,2.08203 0.52853,0.6192 1.45971,0.69316 2.08008,0.16601 0.62037,-0.52715 0.69764,-1.45853 0.17188,-2.08008 l -0.0762,0.0645 c 0.49092,0.58034 0.4191,1.44724 -0.16015,1.93945 -0.57925,0.49221 -1.44596,0.42386 -1.93945,-0.1543 -0.4935,-0.57815 -0.42667,-1.44662 0.15039,-1.9414 0.57705,-0.49477 1.44339,-0.42751 1.93945,0.14844 l 0.0762,-0.0664 c -0.26564,-0.30842 -0.63119,-0.47932 -1.00781,-0.50781 z m 0,30.75 c -0.37662,-0.0285 -0.76326,0.0847 -1.07227,0.34961 -0.61802,0.5299 -0.69064,1.46283 -0.16211,2.08203 0.52853,0.6192 1.45971,0.69316 2.08008,0.16601 0.62037,-0.52715 0.69764,-1.45853 0.17188,-2.08008 l -0.0762,0.0645 c 0.49092,0.58034 0.4191,1.44724 -0.16015,1.93945 -0.57925,0.49221 -1.44596,0.42386 -1.93945,-0.1543 -0.4935,-0.57815 -0.42667,-1.44662 0.15039,-1.9414 0.57705,-0.49477 1.44339,-0.42751 1.93945,0.14844 l 0.0762,-0.0664 c -0.26564,-0.30842 -0.63119,-0.47932 -1.00781,-0.50781 z m -74.75,-30.75 c -0.37662,-0.0285 -0.76326,0.0847 -1.07227,0.34961 -0.61802,0.5299 -0.69064,1.46283 -0.16211,2.08203 0.52853,0.6192 1.45971,0.69316 2.08008,0.16601 0.62037,-0.52715 0.69764,-1.45853 0.17188,-2.08008 l -0.0762,0.0645 c 0.49092,0.58034 0.4191,1.44724 -0.16015,1.93945 -0.57925,0.49221 -1.44596,0.42386 -1.93945,-0.1543 -0.4935,-0.57815 -0.42667,-1.44662 0.15039,-1.9414 0.57705,-0.49477 1.44339,-0.42751 1.93945,0.14844 l 0.0762,-0.0664 c -0.26564,-0.30842 -0.63119,-0.47932 -1.00781,-0.50781 z m 0,30.75 c -0.37662,-0.0285 -0.76326,0.0847 -1.07227,0.34961 -0.61802,0.5299 -0.69064,1.46283 -0.16211,2.08203 0.52853,0.6192 1.45971,0.69316 2.08008,0.16601 0.62037,-0.52715 0.69764,-1.45853 0.17188,-2.08008 l -0.0762,0.0645 c 0.49092,0.58034 0.4191,1.44724 -0.16015,1.93945 -0.57925,0.49221 -1.44596,0.42386 -1.93945,-0.1543 -0.4935,-0.57815 -0.42667,-1.44662 0.15039,-1.9414 0.57705,-0.49477 1.44339,-0.42751 1.93945,0.14844 l 0.0762,-0.0664 c -0.26564,-0.30842 -0.63119,-0.47932 -1.00781,-0.50781 z M 210.93164,236.5 v 0.0508 24.38867 h 71.4375 V 236.5 Z m 0.0996,0.10156 h 71.23828 v 24.23828 h -71.23828 z m -97.41015,-81.21289 c -0.41193,-0.0312 -0.83581,0.095 -1.17382,0.38477 -0.67602,0.57961 -0.75391,1.59811 -0.17579,2.27539 0.57813,0.67728 1.5968,0.76018 2.2754,0.18359 0.67859,-0.5766 0.7626,-1.59554 0.1875,-2.27539 l -0.0762,0.0644 c 0.54026,0.63865 0.46169,1.59311 -0.17578,2.13477 -0.63747,0.54165 -1.59167,0.46436 -2.13476,-0.17187 -0.54309,-0.63624 -0.46904,-1.59028 0.16601,-2.13477 0.63506,-0.54449 1.58885,-0.47171 2.13477,0.16211 l 0.0762,-0.0664 c -0.29057,-0.33735 -0.69158,-0.52548 -1.10352,-0.55664 z m -39.999996,0 c -0.411933,-0.0312 -0.835817,0.095 -1.173828,0.38477 -0.676018,0.57961 -0.753907,1.59811 -0.175782,2.27539 0.57813,0.67728 1.596795,0.76019 2.275391,0.18359 0.678594,-0.5766 0.76261,-1.59554 0.1875,-2.27539 l -0.07617,0.0644 c 0.540257,0.63865 0.461689,1.59311 -0.175781,2.13477 -0.637472,0.54165 -1.591673,0.46436 -2.134766,-0.17187 -0.543089,-0.63624 -0.469033,-1.59028 0.166016,-2.13477 0.635053,-0.54449 1.588845,-0.47171 2.134766,0.16211 l 0.07617,-0.0664 c -0.29057,-0.33735 -0.691583,-0.52548 -1.103515,-0.55664 z m 5.111328,-23.15625 v 0.0508 49.48438 h 29.535158 v -49.53516 z m 0.09961,0.0996 h 29.335938 v 49.33594 H 78.832031 Z m -65.986329,2.44337 c -0.49205,0.0394 -0.968998,0.26519 -1.314453,0.66992 -0.690908,0.80947 -0.596959,2.02797 0.210938,2.72071 0.8079,0.69273 2.026193,0.6013 2.720703,-0.20508 l -0.07617,-0.0664 c -0.659293,0.7655 -1.811192,0.85292 -2.578125,0.19531 -0.76693,-0.6576 -0.857045,-1.8097 -0.201172,-2.57812 0.655876,-0.76843 1.80827,-0.86122 2.578125,-0.20703 0.769851,0.65419 0.865341,1.80679 0.212891,2.57812 l 0.07617,0.0645 c 0.687302,-0.81254 0.586366,-2.02962 -0.224609,-2.71875 -0.405489,-0.34457 -0.912246,-0.49255 -1.404297,-0.45313 z m 0,88.90039 c -0.49205,0.0394 -0.968996,0.26519 -1.314453,0.66992 -0.690915,0.80947 -0.596966,2.02797 0.210938,2.72071 0.807903,0.69273 2.026196,0.59935 2.720703,-0.20703 l -0.07617,-0.0645 c -0.65929,0.7655 -1.811189,0.85292 -2.578125,0.19531 -0.766936,-0.6576 -0.857052,-1.81165 -0.201172,-2.58007 0.655879,-0.76843 1.808273,-0.85927 2.578125,-0.20508 0.769851,0.65419 0.865341,1.80679 0.212891,2.57812 l 0.07617,0.0645 c 0.687302,-0.81254 0.586366,-2.02962 -0.224609,-2.71875 -0.405488,-0.34457 -0.912246,-0.49255 -1.404297,-0.45313 z M 9.8457031,-271.125 c -0.4920504,0.0394 -0.9689961,0.26714 -1.3144531,0.67188 -0.6909145,0.80946 -0.5969662,2.02601 0.2109375,2.71874 0.8079009,0.69274 2.0261935,0.60131 2.7207035,-0.20507 l -0.07617,-0.0664 c -0.659293,0.7655 -1.8111918,0.85292 -2.5781252,0.19531 -0.7669362,-0.65761 -0.8570518,-1.8097 -0.2011719,-2.57812 0.6558792,-0.76842 1.8082731,-0.86122 2.5781251,-0.20703 0.769851,0.65419 0.865341,1.80679 0.212891,2.57812 l 0.07617,0.0645 c 0.687302,-0.81254 0.586366,-2.02962 -0.224609,-2.71876 -0.405488,-0.34456 -0.912246,-0.49254 -1.4042969,-0.45312 z m 140.0078169,53.90039 c -0.49223,0.0372 -0.97111,0.26087 -1.31836,0.66406 l 0.0762,0.0664 c 0.65929,-0.7655 1.81119,-0.85293 2.57812,-0.19531 0.76693,0.65761 0.85705,1.8097 0.20117,2.57812 -0.65587,0.76843 -1.80826,0.86122 -2.57812,0.20703 -0.76986,-0.65419 -0.86535,-1.80679 -0.21289,-2.57812 l -0.0762,-0.0645 c -0.68731,0.81254 -0.58637,2.02962 0.22461,2.71876 0.81098,0.68913 2.02784,0.59072 2.71875,-0.21876 0.69091,-0.80946 0.59696,-2.02601 -0.21094,-2.71874 -0.40395,-0.34637 -0.91012,-0.49622 -1.40234,-0.45899 z m 257,405.90039 c -0.49223,0.0372 -0.97111,0.26087 -1.31836,0.66406 l 0.0762,0.0645 c 0.65929,-0.7655 1.81119,-0.85097 2.57812,-0.19336 0.76693,0.65761 0.85705,1.8097 0.20117,2.57812 -0.65587,0.76843 -1.80826,0.86122 -2.57812,0.20703 -0.76986,-0.65419 -0.86535,-1.80679 -0.21289,-2.57812 l -0.0762,-0.0644 c -0.68731,0.81253 -0.58637,2.02961 0.22461,2.71875 0.81098,0.68913 2.02784,0.59072 2.71875,-0.21875 0.69091,-0.80947 0.59696,-2.02602 -0.21094,-2.71875 -0.40395,-0.34637 -0.91012,-0.49622 -1.40234,-0.45899 z m 0,88.89844 c -0.49223,0.0372 -0.97111,0.26282 -1.31836,0.66601 l 0.0762,0.0645 c 0.65929,-0.7655 1.81119,-0.85293 2.57812,-0.19531 0.76694,0.6576 0.85706,1.81165 0.20117,2.58007 -0.65587,0.76843 -1.80827,0.85927 -2.57812,0.20508 -0.76985,-0.65419 -0.86534,-1.80484 -0.21289,-2.57617 l -0.0762,-0.0644 c -0.6873,0.81253 -0.58637,2.02961 0.22461,2.71875 0.81097,0.68913 2.02783,0.59072 2.71875,-0.21875 0.69091,-0.80947 0.59696,-2.02797 -0.21094,-2.72071 -0.40395,-0.34637 -0.91012,-0.49621 -1.40234,-0.45898 z m 0.29882,-53.89844 c -0.49205,-0.0394 -0.99881,0.10856 -1.40429,0.45313 -0.81098,0.68913 -0.91191,1.90621 -0.22461,2.71875 l 0.0762,-0.0645 c -0.65245,-0.77133 -0.55696,-1.92393 0.21289,-2.57812 0.76985,-0.65419 1.92225,-0.56335 2.57812,0.20508 0.65589,0.76842 0.56577,1.92246 -0.20117,2.58007 -0.76693,0.65761 -1.91883,0.57019 -2.57812,-0.19531 l -0.0762,0.0645 c 0.6945,0.80639 1.9128,0.89976 2.7207,0.20703 0.8079,-0.69274 0.90185,-1.91124 0.21094,-2.72071 -0.34546,-0.40473 -0.82241,-0.6305 -1.31446,-0.66992 z m 0,-88.90039 c -0.49205,-0.0394 -0.9988,0.10856 -1.40429,0.45313 -0.81098,0.68913 -0.91191,1.90621 -0.22461,2.71875 l 0.0762,-0.0645 c -0.65245,-0.77133 -0.55696,-1.92393 0.21289,-2.57812 0.76986,-0.65419 1.92225,-0.5614 2.57812,0.20703 0.65588,0.76842 0.56576,1.92051 -0.20117,2.57812 -0.76693,0.65762 -1.91883,0.57019 -2.57812,-0.19531 l -0.0762,0.0664 c 0.69451,0.80638 1.9128,0.89782 2.7207,0.20508 0.8079,-0.69274 0.90185,-1.91124 0.21094,-2.72071 -0.34546,-0.40473 -0.82241,-0.63049 -1.31446,-0.66992 z m -257,-405.90039 c -0.49205,-0.0394 -0.99881,0.10856 -1.40429,0.45312 -0.81098,0.68914 -0.91191,1.90622 -0.22461,2.71876 l 0.0762,-0.0645 c -0.65245,-0.77133 -0.55696,-1.92393 0.21289,-2.57812 0.76985,-0.65419 1.92225,-0.56139 2.57812,0.20703 0.65589,0.76842 0.56577,1.92051 -0.20117,2.57812 -0.76693,0.65762 -1.91883,0.57019 -2.57812,-0.19531 l -0.0762,0.0664 c 0.69451,0.80638 1.9128,0.89781 2.7207,0.20507 0.8079,-0.69273 0.90185,-1.90928 0.21094,-2.71874 -0.34546,-0.40474 -0.82241,-0.63246 -1.31446,-0.67188 z M 13.144531,188.67578 c -0.492221,-0.0372 -0.998393,0.11262 -1.402343,0.45899 -0.807897,0.69273 -0.901846,1.90928 -0.210938,2.71875 0.690911,0.80947 1.907772,0.90788 2.71875,0.21875 0.810981,-0.68914 0.911918,-1.90622 0.224609,-2.71875 l -0.07617,0.0644 c 0.652456,0.77133 0.556967,1.92393 -0.212891,2.57812 -0.769855,0.65419 -1.922249,0.5614 -2.578125,-0.20703 -0.655873,-0.76842 -0.565758,-1.92051 0.201172,-2.57812 0.766933,-0.65761 1.918832,-0.57214 2.578125,0.19336 l 0.07617,-0.0645 c -0.347255,-0.40319 -0.826139,-0.62683 -1.31836,-0.66406 z m 0,88.89844 c -0.492221,-0.0372 -0.998393,0.11261 -1.402343,0.45898 -0.807904,0.69274 -0.901853,1.91124 -0.210938,2.72071 0.690914,0.80946 1.907774,0.90788 2.71875,0.21875 0.810975,-0.68914 0.911911,-1.90622 0.224609,-2.71875 l -0.07617,0.0644 c 0.65245,0.77133 0.55696,1.92198 -0.212891,2.57617 -0.769852,0.65419 -1.922246,0.56335 -2.578125,-0.20508 -0.65588,-0.76842 -0.565764,-1.92247 0.201172,-2.58007 0.766933,-0.65762 1.918832,-0.57019 2.578125,0.19531 l 0.07617,-0.0645 c -0.347255,-0.40319 -0.826139,-0.62878 -1.31836,-0.66601 z m -3,-494.79883 c -0.4922206,-0.0372 -0.9983931,0.11262 -1.4023435,0.45899 -0.807897,0.69273 -0.9018451,1.90928 -0.2109375,2.71874 0.6909109,0.80948 1.907772,0.90789 2.71875,0.21876 0.810981,-0.68914 0.911918,-1.90622 0.224609,-2.71876 l -0.07617,0.0645 c 0.652456,0.77133 0.556967,1.92393 -0.212891,2.57812 -0.769855,0.65419 -1.9222487,0.5614 -2.5781251,-0.20703 -0.6558733,-0.76842 -0.5657579,-1.92051 0.2011719,-2.57812 0.7669334,-0.65761 1.9188322,-0.57019 2.5781252,0.19531 l 0.07617,-0.0664 c -0.347255,-0.40319 -0.826139,-0.62683 -1.31836,-0.66406 z M 387.6582,107.04297 c -0.5067,-0.0403 -1.02765,0.11064 -1.44531,0.46289 -0.83533,0.70449 -0.94042,1.94858 -0.23242,2.7793 l 0.0762,-0.0645 c -0.67296,-0.78959 -0.57342,-1.96893 0.2207,-2.63867 0.79413,-0.66974 1.98172,-0.57373 2.65821,0.21289 0.67649,0.78662 0.58408,1.96543 -0.20703,2.63867 -0.79111,0.67324 -1.98015,0.58441 -2.66016,-0.19921 l -0.0762,0.0644 c 0.71542,0.82442 1.97057,0.9191 2.80273,0.21094 0.83217,-0.70818 0.92852,-1.95367 0.2168,-2.78125 -0.35586,-0.4138 -0.84681,-0.64526 -1.35352,-0.68555 z m 19.5,-19.35547 c -0.5067,-0.0403 -1.02765,0.110646 -1.44531,0.462891 -0.83533,0.70449 -0.93847,1.950531 -0.23047,2.78125 l 0.0762,-0.06445 c -0.67295,-0.789597 -0.57537,-1.968931 0.21875,-2.638672 0.79413,-0.669742 1.98367,-0.575681 2.66016,0.210937 0.67649,0.786619 0.58408,1.965431 -0.20703,2.638672 -0.79111,0.673243 -1.9821,0.584407 -2.66211,-0.199219 l -0.0742,0.06641 c 0.71542,0.82443 1.96862,0.917162 2.80078,0.208985 0.83216,-0.708174 0.93047,-1.953669 0.21875,-2.78125 -0.35586,-0.41379 -0.84876,-0.645251 -1.35547,-0.685547 z m -19.5,-140.644531 c -0.5067,-0.0403 -1.02765,0.110645 -1.44531,0.46289 -0.83532,0.70449 -0.94042,1.948578 -0.23242,2.779297 l 0.0762,-0.06445 c -0.67295,-0.789597 -0.57342,-1.96893 0.2207,-2.638672 0.79413,-0.669741 1.98172,-0.573727 2.65821,0.212891 0.67649,0.786618 0.58408,1.965431 -0.20703,2.638672 -0.79111,0.673237 -1.98015,0.5844 -2.66016,-0.199219 l -0.0762,0.06445 c 0.71542,0.824422 1.97057,0.919108 2.80273,0.210938 0.83216,-0.708175 0.92852,-1.953669 0.2168,-2.78125 -0.35586,-0.413791 -0.84681,-0.645252 -1.35352,-0.685547 z m 19.5,-19.324219 c -0.50673,-0.0406 -1.02771,0.11194 -1.44531,0.466797 -0.83519,0.709712 -0.93829,1.96203 -0.23047,2.798828 l 0.0762,-0.06445 c -0.67297,-0.795596 -0.57531,-1.983436 0.21875,-2.658203 0.79407,-0.674769 1.98365,-0.579706 2.66016,0.21289 0.67651,0.792593 0.58403,1.981862 -0.20703,2.660157 -0.79106,0.678298 -1.98208,0.588407 -2.66211,-0.201172 l -0.0742,0.06445 c 0.71525,0.83047 1.96876,0.924364 2.80078,0.210937 0.83203,-0.713422 0.9303,-1.967142 0.21875,-2.800781 -0.35577,-0.416821 -0.84873,-0.648852 -1.35547,-0.689453 z m -393.994138,0 c -0.506656,-0.04173 -1.030819,0.108978 -1.449218,0.462891 l 0.06445,0.07617 c 0.795597,-0.672974 1.98539,-0.575319 2.660156,0.21875 0.674766,0.794069 0.579703,1.983648 -0.212891,2.660157 -0.792593,0.676508 -1.981862,0.584026 -2.660156,-0.207031 -0.678294,-0.791059 -0.588403,-1.980128 0.201172,-2.660157 l -0.06445,-0.07617 c -0.830465,0.715246 -0.926312,1.968756 -0.212891,2.800782 0.713422,0.832025 1.967142,0.930293 2.800782,0.21875 0.833639,-0.711543 0.93432,-1.965589 0.224609,-2.800782 -0.354856,-0.417596 -0.844906,-0.651632 -1.351563,-0.69336 z m 19.5,19.5 c -0.506656,-0.04173 -1.030819,0.108978 -1.449218,0.462891 l 0.06445,0.07617 c 0.795597,-0.672974 1.98539,-0.575319 2.660156,0.21875 0.674766,0.794069 0.579703,1.983648 -0.212891,2.660157 -0.792593,0.676508 -1.981862,0.584026 -2.660156,-0.207031 -0.678294,-0.791059 -0.588403,-1.980128 0.201172,-2.660157 l -0.06445,-0.07617 c -0.830465,0.715246 -0.926313,1.968756 -0.212891,2.800782 0.713422,0.832025 1.967142,0.930292 2.800782,0.21875 0.833639,-0.711543 0.93432,-1.965589 0.224609,-2.800782 -0.354856,-0.417596 -0.844906,-0.651632 -1.351563,-0.69336 z m -19.5,140.5 c -0.506656,-0.04173 -1.030819,0.108978 -1.449218,0.462891 l 0.06445,0.07617 c 0.795597,-0.672974 1.98539,-0.575319 2.660156,0.21875 0.674766,0.794069 0.579703,1.983648 -0.212891,2.660157 -0.792593,0.676508 -1.981862,0.584026 -2.660156,-0.207031 C 10.888109,90.138628 10.978,88.949559 11.767575,88.26953 l -0.06445,-0.07617 c -0.830465,0.715246 -0.926312,1.968756 -0.212891,2.800782 0.713422,0.832025 1.967142,0.930293 2.800782,0.21875 0.833639,-0.711543 0.93432,-1.965589 0.224609,-2.800782 -0.354856,-0.417596 -0.844906,-0.651632 -1.351563,-0.69336 z m 19.5,19.5 c -0.506656,-0.0417 -1.030819,0.10898 -1.449218,0.46289 l 0.06445,0.0762 c 0.795596,-0.67297 1.985389,-0.57532 2.660156,0.21875 0.674769,0.79407 0.579705,1.98365 -0.212891,2.66016 -0.792592,0.67651 -1.981861,0.58402 -2.660156,-0.20703 -0.678299,-0.79106 -0.588407,-1.98013 0.201172,-2.66016 l -0.06445,-0.0762 c -0.83047,0.71525 -0.926317,1.96875 -0.212891,2.80078 0.713423,0.83202 1.967143,0.93029 2.800782,0.21875 0.833642,-0.71154 0.934323,-1.96559 0.224609,-2.80078 -0.354856,-0.4176 -0.844906,-0.65163 -1.351563,-0.69336 z m -0.01367,-300.00195 c -0.506908,-0.0384 -1.029301,0.11594 -1.445313,0.47265 -0.832024,0.71342 -0.928338,1.9691 -0.216797,2.80274 0.711545,0.83364 1.963638,0.93237 2.798828,0.22265 0.835194,-0.70971 0.940249,-1.96203 0.232422,-2.79882 l -0.07813,0.0644 c 0.672975,0.7956 0.57532,1.98344 -0.21875,2.6582 -0.794067,0.67477 -1.981693,0.5797 -2.658203,-0.21289 -0.676507,-0.79259 -0.584025,-1.98186 0.207031,-2.66016 0.791058,-0.67829 1.980126,-0.5884 2.660157,0.20118 l 0.07617,-0.0645 c -0.357623,-0.41523 -0.850514,-0.6472 -1.357421,-0.68554 z m -19.5,19.5 c -0.506908,-0.0384 -1.029301,0.11594 -1.445313,0.47265 -0.832024,0.71342 -0.930291,1.9691 -0.21875,2.80274 0.711545,0.83364 1.965591,0.93237 2.800781,0.22265 0.835194,-0.70971 0.938296,-1.96203 0.230469,-2.79882 l -0.07617,0.0644 c 0.672975,0.7956 0.57532,1.98344 -0.21875,2.6582 -0.794067,0.67477 -1.983646,0.5797 -2.660156,-0.21289 -0.676507,-0.79259 -0.584025,-1.98186 0.207031,-2.66016 0.791057,-0.67829 1.982079,-0.5884 2.66211,0.20118 l 0.07422,-0.0645 c -0.357623,-0.41523 -0.848561,-0.6472 -1.355468,-0.68554 z m 374.199219,-19.5 c -0.50691,0.0383 -0.9998,0.27031 -1.35742,0.68554 l 0.0762,0.0645 c 0.68003,-0.78958 1.8691,-0.87947 2.66016,-0.20118 0.79105,0.6783 0.88353,1.86757 0.20703,2.66016 -0.67651,0.79259 -1.86414,0.88766 -2.65821,0.21289 -0.79407,-0.67477 -0.89172,-1.86261 -0.21875,-2.6582 l -0.0781,-0.0644 c -0.70783,0.83679 -0.60472,2.08911 0.23047,2.79882 0.83519,0.70972 2.08923,0.61099 2.80078,-0.22265 0.71154,-0.83364 0.61523,-2.08931 -0.2168,-2.80274 -0.41601,-0.35671 -0.9384,-0.511 -1.44531,-0.47265 z m 19.5,19.5 c -0.50691,0.0383 -0.99785,0.27031 -1.35547,0.68554 l 0.0742,0.0645 c 0.68003,-0.78958 1.87105,-0.87947 2.66211,-0.20118 0.79105,0.6783 0.88354,1.86757 0.20703,2.66016 -0.67651,0.7926 -1.86609,0.88766 -2.66016,0.21289 -0.79407,-0.67477 -0.89172,-1.86261 -0.21875,-2.6582 l -0.0762,-0.0644 c -0.70783,0.83679 -0.60472,2.08911 0.23047,2.79882 0.83519,0.70972 2.08924,0.61099 2.80078,-0.22265 0.71154,-0.83364 0.61327,-2.08931 -0.21875,-2.80274 -0.41601,-0.35671 -0.9384,-0.511 -1.44531,-0.47265 z m -19.5,140.703122 c -0.50688,0.03806 -0.99971,0.267473 -1.35742,0.679687 l 0.0762,0.06641 c 0.68001,-0.783626 1.86904,-0.872462 2.66016,-0.199219 0.79111,0.673241 0.88352,1.852053 0.20703,2.638672 -0.67649,0.786617 -1.86408,0.882632 -2.65821,0.21289 -0.79412,-0.669741 -0.89366,-1.849075 -0.2207,-2.638671 l -0.0762,-0.06641 c -0.708,0.830719 -0.60291,2.07676 0.23242,2.78125 0.83533,0.70449 2.08711,0.604924 2.79883,-0.222656 0.71172,-0.827581 0.61536,-2.073076 -0.2168,-2.78125 -0.41608,-0.354089 -0.93843,-0.50876 -1.44531,-0.470703 z m 19.5,19.355469 c -0.50688,0.03806 -0.99776,0.267473 -1.35547,0.679687 l 0.0742,0.06641 c 0.68001,-0.783625 1.871,-0.872462 2.66211,-0.199218 0.79111,0.67324 0.88352,1.852053 0.20703,2.638672 -0.67649,0.7866173 -1.86603,0.8806786 -2.66016,0.210937 -0.79412,-0.669742 -0.8917,-1.849075 -0.21875,-2.638672 l -0.0762,-0.06445 c -0.708,0.830719 -0.60485,2.074807 0.23047,2.7792969 0.83533,0.7044901 2.08906,0.6049243 2.80078,-0.2226563 0.71172,-0.8275816 0.61341,-2.0711226 -0.21875,-2.7792966 -0.41608,-0.354089 -0.93843,-0.50876 -1.44531,-0.470703 z M 32.650391,-32.783203 c -0.506908,-0.03834 -1.0293,0.115945 -1.445313,0.472656 -0.832025,0.713422 -0.92834,1.967142 -0.216797,2.800781 0.711543,0.83364 1.963636,0.934321 2.798828,0.22461 0.835193,-0.709712 0.940248,-1.96203 0.232422,-2.798828 l -0.07813,0.06445 c 0.672975,0.795597 0.575319,1.983436 -0.21875,2.658203 -0.794069,0.674767 -1.981694,0.579703 -2.658203,-0.212891 -0.676508,-0.792593 -0.584026,-1.981862 0.207031,-2.660156 0.791058,-0.678294 1.980127,-0.588403 2.660157,0.201172 l 0.07617,-0.06445 c -0.357623,-0.415233 -0.850514,-0.647202 -1.357421,-0.685547 z m -19.5,19.5 c -0.506908,-0.03834 -1.0293,0.115945 -1.445313,0.472656 -0.832025,0.713422 -0.930293,1.969095 -0.21875,2.802735 0.711543,0.8336392 1.965589,0.9323667 2.800781,0.2226558 0.835193,-0.7097118 0.938295,-1.9620298 0.230469,-2.7988278 l -0.07617,0.06445 c 0.672974,0.795596 0.575319,1.983436 -0.21875,2.6582029 -0.794069,0.674766 -1.983648,0.5797027 -2.660156,-0.2128909 -0.676508,-0.792593 -0.584027,-1.981862 0.207031,-2.660156 0.791058,-0.678294 1.98208,-0.588403 2.66211,0.201172 l 0.07422,-0.06445 c -0.357623,-0.415233 -0.848561,-0.647202 -1.355468,-0.685547 z M 370.24023,-289.45898 v 0.0508 88.36718 h 49.51954 v -88.41796 z m 0.10157,0.0996 h 49.3164 v 88.21876 h -49.3164 z m -50.13086,-0.1289 v 0.0508 88.42578 h 49.57812 v -88.47656 z m 0.10156,0.0996 h 49.375 v 88.27734 h -49.375 z m -320.15625,5.74415 v 82.6875 h 159.6875 v -82.6875 h -0.0508 z m 0.0996094,0.10156 H 159.74414 v 82.48633 H 0.25585938 Z m 0.11328122,83.11133 v 0.0508 159.210938 H 419.63086 V -200.43164 Z m 0.0996094,0.10156 H 419.53125 V -41.269531 H 0.46875 Z m -0.1542969,159.843752 v 0.05078 159.322268 H 419.68555 V -40.486328 Z m 0.0996094,0.09961 H 419.58594 V 118.78516 H 0.4140625 Z M 0.16601562,119.36523 v 0.0508 88.51757 H 419.83398 v -88.56836 z m 0.0996094,0.0996 H 419.73438 v 88.36914 H 0.265625 Z m -0.1386719,88.66212 v 0.0488 88.69727 H 419.87305 v -88.7461 z m 0.0996094,0.0996 H 419.77344 v 88.54688 H 0.2265625 Z" />
+  </g>
+</svg>

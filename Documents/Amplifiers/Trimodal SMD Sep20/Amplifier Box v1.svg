@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="421mm"
+   height="297mm"
+   viewBox="0 0 421 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Amplifier Box v1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="1224.896"
+     inkscape:cy="452.76927"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     width="421mm"
+     inkscape:window-width="1360"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="189,567"
+     inkscape:measure-end="189,189">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4520" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3713"
+       width="339.64795"
+       height="99.647934"
+       x="50.176029"
+       y="147.17604"
+       style="fill:none;stroke:#000000;stroke-width:0.35206354;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22212505;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4524"
+       cx="66"
+       cy="227.5"
+       r="1.8889375" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.32418633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4545"
+       cx="66"
+       cy="162.5"
+       r="1.8379068" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4547"
+       cx="374"
+       cy="162.5"
+       r="1.875" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.20253165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4549"
+       cx="374"
+       cy="227.5"
+       rx="1.8987341"
+       ry="1.8987342" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.25531915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4551"
+       cx="99"
+       cy="192"
+       r="2.8723404" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.25531915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4551-3"
+       cx="124"
+       cy="192"
+       r="2.8723404" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.25531915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4551-6"
+       cx="149"
+       cy="192"
+       r="2.8723404" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.25531915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4551-7"
+       cx="199"
+       cy="192"
+       r="2.8723404" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.25531915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4551-5"
+       cx="224"
+       cy="192"
+       r="2.8723404" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.25531915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4551-35"
+       cx="249"
+       cy="192"
+       r="2.8723404" />
+  </g>
+</svg>

@@ -1,0 +1,117 @@
+.title KiCad schematic
+C7 VAA GND 100NF
+R4 VAA Net-_R4-Pad2_ 100R
+TR1 Net-_R4-Pad2_ Net-_C14-Pad2_ Net-_R35-Pad1_ Q_PNP_EBC
+C14 VAA Net-_C14-Pad2_ 47/25
+R5 Net-_R49-Pad1_ Net-_C14-Pad2_ 2K2
+R35 Net-_R35-Pad1_ Net-_R2-Pad1_ 1K
+R2 Net-_R2-Pad1_ Net-_R2-Pad2_ 100R
+R3 Net-_R2-Pad1_ Net-_R3-Pad2_ 100R
+TR3 Net-_R3-Pad2_ Net-_R40-Pad1_ Net-_TR10-Pad2_ Q_PNP_EBC
+R1 Net-_C16-Pad1_ Net-_C15-Pad2_ 1K1
+R46 Net-_C15-Pad2_ GND 1K1
+C16 Net-_C16-Pad1_ GND 100PF
+R9 Net-_C16-Pad1_ Net-_C1-Pad1_ 10R
+C1 Net-_C1-Pad1_ Net-_C1-Pad2_ 47/25
+TR2 Net-_R2-Pad2_ Net-_C16-Pad1_ Net-_C3-Pad2_ Q_PNP_EBC
+R48 Net-_C1-Pad2_ GND 100K
+C15 Net-_C15-Pad1_ Net-_C15-Pad2_ 47/25
+R8 NFB Net-_R40-Pad1_ 2K2
+R40 Net-_R40-Pad1_ Net-_C2-Pad1_ 110R
+C2 Net-_C2-Pad1_ GND 1000UF
+D3 Net-_C2-Pad1_ Net-_D3-Pad2_ 1N4148
+D4 Net-_D3-Pad2_ GND 1N4148
+D1 Net-_D1-Pad1_ Net-_C2-Pad1_ 1N4148
+D2 GND Net-_D1-Pad1_ 1N4148
+TR10 Net-_R6-Pad1_ Net-_TR10-Pad2_ Net-_C3-Pad2_ Q_NPN_EBC
+TR11 Net-_R7-Pad1_ Net-_TR10-Pad2_ Net-_TR10-Pad2_ Q_NPN_EBC
+R47 Net-_R40-Pad1_ Net-_C15-Pad1_ 100R
+R6 Net-_R6-Pad1_ Net-_C12-Pad2_ 68R
+R7 Net-_R7-Pad1_ Net-_C12-Pad2_ 68R
+C17 GND Net-_C12-Pad2_ 100NF
+SW1 VAA Net-_D9-Pad2_ SW_SPST
+D9 Net-_D9-Pad1_ Net-_D9-Pad2_ 1N4148
+R33 Net-_D9-Pad1_ Net-_R32-Pad1_ 100K
+TR20 Net-_C3-Pad1_ Net-_R32-Pad1_ Net-_R11-Pad2_ Q_NPN_EBC
+R32 Net-_R32-Pad1_ Net-_C3-Pad1_ 680K
+C11 VAA Net-_C11-Pad2_ 47/25
+TR21 VAA Net-_R41-Pad2_ Net-_R49-Pad1_ Q_PNP_EBC
+R49 Net-_R49-Pad1_ Net-_C11-Pad2_ 10K
+R39 Net-_C11-Pad2_ GND 10K
+TR5 Net-_R13-Pad2_ Net-_R49-Pad1_ Net-_R10-Pad1_ Q_PNP_EBC
+R41 Net-_R13-Pad2_ Net-_R41-Pad2_ 2K2
+R13 VAA Net-_R13-Pad2_ 68R
+R14 Net-_R10-Pad1_ Net-_C4-Pad1_ 16R
+PR1 Net-_PR1-Pad1_ Net-_C3-Pad1_ Net-_C3-Pad1_ 1K
+R11 Net-_R10-Pad2_ Net-_R11-Pad2_ 270R
+TR13 Net-_R10-Pad2_ Net-_C4-Pad1_ Net-_C3-Pad1_ MJE13003
+R10 Net-_R10-Pad1_ Net-_R10-Pad2_ 680R
+C4 Net-_C4-Pad1_ Net-_C3-Pad1_ 47/25
+TR14 Net-_C4-Pad1_ Net-_R15-Pad2_ Net-_C3-Pad1_ Q_PNP_EBC
+TR4 Net-_R34-Pad1_ Net-_R36-Pad1_ Net-_C3-Pad1_ Q_NPN_EBC
+R38 Net-_R34-Pad1_ Net-_C12-Pad2_ 10R
+TR12 Net-_R36-Pad1_ Net-_C3-Pad2_ GND Q_NPN_EBC
+C3 Net-_C3-Pad1_ Net-_C3-Pad2_ 100PF
+R36 Net-_R36-Pad1_ Net-_C12-Pad2_ 2K2
+Q6 Net-_C12-Pad2_ Net-_Q6-Pad2_ Net-_C3-Pad2_ Q_NPN_EBC
+R34 Net-_R34-Pad1_ Net-_Q6-Pad2_ 2K2
+R37 VCC Net-_C12-Pad2_ 10R
+C12 GND Net-_C12-Pad2_ 1000/40
+D6 VCC Net-_D5-Pad1_ 1N4148
+D5 Net-_D5-Pad1_ Net-_D5-Pad2_ 1N4148
+R44 Net-_D9-Pad2_ Net-_D5-Pad2_ 100K
+R45 Net-_R45-Pad1_ VCC 1K
+R42 VAA Net-_C5-Pad1_ 10K
+R43 Net-_C5-Pad1_ Net-_R30-Pad2_ 10K
+RG1 Net-_R30-Pad2_ Net-_R17-Pad2_ LM385BZ-1.2
+R30 Net-_R30-Pad1_ Net-_R30-Pad2_ 3K
+TR15 Net-_TR15-Pad1_ Net-_R30-Pad1_ Net-_C4-Pad1_ Q_NPN_EBC
+TR16 Net-_TR15-Pad1_ Net-_R20-Pad2_ Net-_R15-Pad2_ Q_NPN_EBC
+R15 Net-_C4-Pad1_ Net-_R15-Pad2_ 2K2
+R31 Net-_R30-Pad1_ Net-_R17-Pad2_ 1K
+R20 Net-_D7-Pad1_ Net-_R20-Pad2_ 1K
+R24 Net-_D8-Pad1_ Net-_C3-Pad1_ 100R
+R12 Net-_D7-Pad2_ Net-_C4-Pad1_ 100R
+C5 Net-_C5-Pad1_ NFB 47/25
+D7 Net-_D7-Pad1_ Net-_D7-Pad2_ 1N4148
+TR18 NFB Net-_R21-Pad2_ Net-_D7-Pad1_ Q_NPN_EBC
+R23 Net-_D7-Pad1_ Net-_R21-Pad2_ 270R
+R21 VAA Net-_R21-Pad2_ 22K
+TR6 Net-_D7-Pad2_ Net-_R25-Pad2_ Net-_D7-Pad1_ MJE13003
+R25 VAA Net-_R25-Pad2_ 100R
+TR19 NFB Net-_R27-Pad2_ Net-_D8-Pad2_ Q_PNP_EBC
+R27 Net-_R17-Pad2_ Net-_R27-Pad2_ 270R
+D8 Net-_D8-Pad1_ Net-_D8-Pad2_ 1N4148
+R29 Net-_R27-Pad2_ VCC 22K
+TR8 Net-_D8-Pad1_ Net-_R26-Pad1_ Net-_R17-Pad2_ BCP51
+TR9 Net-_R26-Pad1_ VCC Net-_R17-Pad2_ 2N3055
+TR7 Net-_R25-Pad2_ VAA Net-_D7-Pad1_ 2N3055
+R16 Net-_D7-Pad1_ NFB 0R1
+TR17 Net-_R45-Pad1_ Net-_D5-Pad2_ Net-_TR15-Pad1_ Q_NPN_EBC
+R26 Net-_R26-Pad1_ VCC 100R
+R17 NFB Net-_R17-Pad2_ 0R1
+C10 GND VCC 220UF
+F2 -24V VCC Fuse
+R18 NFB Net-_C6-Pad1_ 10R
+C6 Net-_C6-Pad1_ GND 100NF
+L1 NFB Net-_J3-Pad1_ 10 TURNS
+R19 Net-_J3-Pad1_ NFB 10R
+C13 GND VCC 100NF
+F1 +24V VAA Fuse
+C9 VAA GND 220UF
+J3 Net-_J3-Pad1_ Conn_01x01_Male
+J4 GND Conn_01x01_Male
+J1 Net-_C1-Pad2_ Conn_01x01_Male
+J2 GND Conn_01x01_Male
+HS2 Heatsink
+HS1 Heatsink
+JL1 NC_01 Conn_01x01_Female
+JL2 NC_02 Conn_01x01_Female
+TP1 NC_03 Conn_01x01_Female
+TP2 NC_04 Conn_01x01_Female
+TP3 NC_05 Conn_01x01_Female
+TP4 NC_06 Conn_01x01_Female
+TP5 NC_07 Conn_01x01_Female
+TP6 NC_08 Conn_01x01_Female
+R22 Net-_R11-Pad2_ Net-_PR1-Pad1_ 100R
+.end

@@ -1,0 +1,522 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Regulator_Switching:TPS5430DDA U1
+U 1 1 5FF7A2C5
+P 4250 1450
+F 0 "U1" H 4250 1917 50  0000 C CNN
+F 1 "TPS5430DDA" H 4250 1826 50  0000 C CNN
+F 2 "Package_SO:TI_SO-PowerPAD-8_ThermalVias" H 4300 1100 50  0001 L CIN
+F 3 "http://www.ti.com/lit/ds/symlink/tps5430.pdf" H 4250 1450 50  0001 C CNN
+	1    4250 1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 1250 2900 1250
+$Comp
+L Device:C C3
+U 1 1 5FF7BF72
+P 2900 1550
+F 0 "C3" H 3015 1596 50  0000 L CNN
+F 1 "10uF C13585" H 3015 1505 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2938 1400 50  0001 C CNN
+F 3 "~" H 2900 1550 50  0001 C CNN
+	1    2900 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 1400 2900 1250
+Connection ~ 2900 1250
+$Comp
+L Device:C C1
+U 1 1 5FF7CE5C
+P 5100 1250
+F 0 "C1" V 4848 1250 50  0000 C CNN
+F 1 "10nF C1710" V 4939 1250 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 5138 1100 50  0001 C CNN
+F 3 "~" H 5100 1250 50  0001 C CNN
+	1    5100 1250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:L L1
+U 1 1 5FF7D115
+P 6250 1250
+F 0 "L1" V 6069 1250 50  0000 C CNN
+F 1 "100uH C169389" V 6160 1250 50  0000 C CNN
+F 2 "Inductor_SMD:L_12x12mm_H6mm" H 6250 1250 50  0001 C CNN
+F 3 "~" H 6250 1250 50  0001 C CNN
+	1    6250 1250
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:B340 D1
+U 1 1 5FF7E4DC
+P 5750 1500
+F 0 "D1" V 5704 1580 50  0000 L CNN
+F 1 "B340 C8598" V 5795 1580 50  0000 L CNN
+F 2 "Diode_SMD:D_SOD-123" H 5750 1325 50  0001 C CNN
+F 3 "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf" H 5750 1500 50  0001 C CNN
+	1    5750 1500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4950 1250 4750 1250
+Wire Wire Line
+	6100 1250 5750 1250
+Wire Wire Line
+	5750 1350 5750 1250
+Connection ~ 5750 1250
+Wire Wire Line
+	5750 1250 5450 1250
+Wire Wire Line
+	4750 1450 5450 1450
+Wire Wire Line
+	5450 1450 5450 1250
+Connection ~ 5450 1250
+Wire Wire Line
+	5450 1250 5250 1250
+Wire Wire Line
+	2900 2950 3950 2950
+Connection ~ 5750 2950
+Wire Wire Line
+	5750 2950 6750 2950
+$Comp
+L Device:CP C2
+U 1 1 5FF823E5
+P 6750 1500
+F 0 "C2" H 6868 1546 50  0000 L CNN
+F 1 "22uF C122303" H 6868 1455 50  0000 L CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D" H 6788 1350 50  0001 C CNN
+F 3 "~" H 6750 1500 50  0001 C CNN
+	1    6750 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5FF82C2D
+P 7550 1650
+F 0 "R1" H 7620 1696 50  0000 L CNN
+F 1 "30k C17999" H 7620 1605 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 7480 1650 50  0001 C CNN
+F 3 "~" H 7550 1650 50  0001 C CNN
+	1    7550 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5FF840A9
+P 7550 2200
+F 0 "R2" H 7620 2246 50  0000 L CNN
+F 1 "3.3k C26032" H 7620 2155 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 7480 2200 50  0001 C CNN
+F 3 "~" H 7550 2200 50  0001 C CNN
+	1    7550 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6400 1250 6750 1250
+Wire Wire Line
+	7550 1500 7550 1250
+Connection ~ 7550 1250
+Wire Wire Line
+	7550 1800 7550 1950
+Wire Wire Line
+	7550 2750 7550 2950
+Wire Wire Line
+	6750 1350 6750 1250
+Connection ~ 6750 1250
+Wire Wire Line
+	6750 1250 7550 1250
+Connection ~ 6750 2950
+Wire Wire Line
+	6750 2950 7550 2950
+Wire Wire Line
+	7550 1950 5100 1950
+Wire Wire Line
+	5100 1950 5100 1650
+Wire Wire Line
+	5100 1650 4750 1650
+Connection ~ 7550 1950
+Wire Wire Line
+	7550 1950 7550 2050
+Wire Wire Line
+	4150 1850 3950 1850
+Connection ~ 3950 2950
+Wire Wire Line
+	3950 2950 4450 2950
+Wire Wire Line
+	4250 1850 4450 1850
+Connection ~ 4450 2950
+Wire Wire Line
+	4450 2950 5750 2950
+Wire Wire Line
+	6750 1650 6750 2950
+Wire Wire Line
+	5750 1650 5750 2950
+Wire Wire Line
+	4450 1850 4450 2950
+Wire Wire Line
+	3950 1850 3950 2950
+Wire Wire Line
+	2900 1700 2900 2950
+$Comp
+L Device:R R3
+U 1 1 5FF96E36
+P 7550 2600
+F 0 "R3" H 7620 2646 50  0000 L CNN
+F 1 " 100 C17901" H 7620 2555 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 7480 2600 50  0001 C CNN
+F 3 "~" H 7550 2600 50  0001 C CNN
+	1    7550 2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7550 2350 7550 2450
+Wire Wire Line
+	2900 2950 2450 2950
+Connection ~ 2900 2950
+Connection ~ 7550 2950
+$Comp
+L Regulator_Switching:TPS5430DDA U2
+U 1 1 5FFADED1
+P 4250 3900
+F 0 "U2" H 4250 4367 50  0000 C CNN
+F 1 "TPS5430DDA" H 4250 4276 50  0000 C CNN
+F 2 "Package_SO:TI_SO-PowerPAD-8_ThermalVias" H 4300 3550 50  0001 L CIN
+F 3 "http://www.ti.com/lit/ds/symlink/tps5430.pdf" H 4250 3900 50  0001 C CNN
+	1    4250 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 3700 2900 3700
+$Comp
+L Device:C C7
+U 1 1 5FFADED8
+P 2900 4000
+F 0 "C7" H 3015 4046 50  0000 L CNN
+F 1 "10uF C13585" H 3015 3955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2938 3850 50  0001 C CNN
+F 3 "~" H 2900 4000 50  0001 C CNN
+	1    2900 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 3850 2900 3700
+Connection ~ 2900 3700
+Wire Wire Line
+	2900 3700 2450 3700
+$Comp
+L Device:C C5
+U 1 1 5FFADEE1
+P 5100 3700
+F 0 "C5" V 4848 3700 50  0000 C CNN
+F 1 "10nF C1710" V 4939 3700 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 5138 3550 50  0001 C CNN
+F 3 "~" H 5100 3700 50  0001 C CNN
+	1    5100 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:L L2
+U 1 1 5FFADEE7
+P 6250 3700
+F 0 "L2" V 6069 3700 50  0000 C CNN
+F 1 "100uH C169389" V 6160 3700 50  0000 C CNN
+F 2 "Inductor_SMD:L_12x12mm_H6mm" H 6250 3700 50  0001 C CNN
+F 3 "~" H 6250 3700 50  0001 C CNN
+	1    6250 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:B340 D2
+U 1 1 5FFADEED
+P 5750 3950
+F 0 "D2" V 5704 4030 50  0000 L CNN
+F 1 "B340 C8598" V 5795 4030 50  0000 L CNN
+F 2 "Diode_SMD:D_SOD-123" H 5750 3775 50  0001 C CNN
+F 3 "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf" H 5750 3950 50  0001 C CNN
+	1    5750 3950
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4950 3700 4750 3700
+Wire Wire Line
+	6100 3700 5750 3700
+Wire Wire Line
+	5750 3800 5750 3700
+Connection ~ 5750 3700
+Wire Wire Line
+	5750 3700 5450 3700
+Wire Wire Line
+	4750 3900 5450 3900
+Wire Wire Line
+	5450 3900 5450 3700
+Connection ~ 5450 3700
+Wire Wire Line
+	5450 3700 5250 3700
+Wire Wire Line
+	2900 5400 3950 5400
+Connection ~ 5750 5400
+Wire Wire Line
+	5750 5400 6750 5400
+$Comp
+L Device:CP C6
+U 1 1 5FFADEFF
+P 6750 3950
+F 0 "C6" H 6868 3996 50  0000 L CNN
+F 1 "22uF C122303" H 6868 3905 50  0000 L CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D" H 6788 3800 50  0001 C CNN
+F 3 "~" H 6750 3950 50  0001 C CNN
+	1    6750 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5FFADF05
+P 7550 4100
+F 0 "R4" H 7620 4146 50  0000 L CNN
+F 1 "30k C17999" H 7620 4055 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 7480 4100 50  0001 C CNN
+F 3 "~" H 7550 4100 50  0001 C CNN
+	1    7550 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 5FFADF0B
+P 7550 4650
+F 0 "R5" H 7620 4696 50  0000 L CNN
+F 1 "3.3k C26032" H 7620 4605 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 7480 4650 50  0001 C CNN
+F 3 "~" H 7550 4650 50  0001 C CNN
+	1    7550 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6400 3700 6750 3700
+Wire Wire Line
+	7550 3950 7550 3700
+Connection ~ 7550 3700
+Wire Wire Line
+	7550 3700 8050 3700
+Wire Wire Line
+	7550 4250 7550 4400
+Wire Wire Line
+	7550 5200 7550 5400
+Wire Wire Line
+	6750 3800 6750 3700
+Connection ~ 6750 3700
+Wire Wire Line
+	6750 3700 7550 3700
+Connection ~ 6750 5400
+Wire Wire Line
+	6750 5400 7550 5400
+Wire Wire Line
+	7550 4400 5100 4400
+Wire Wire Line
+	5100 4400 5100 4100
+Wire Wire Line
+	5100 4100 4750 4100
+Connection ~ 7550 4400
+Wire Wire Line
+	7550 4400 7550 4500
+Wire Wire Line
+	4150 4300 3950 4300
+Connection ~ 3950 5400
+Wire Wire Line
+	3950 5400 4450 5400
+Wire Wire Line
+	4250 4300 4450 4300
+Connection ~ 4450 5400
+Wire Wire Line
+	4450 5400 5750 5400
+Wire Wire Line
+	6750 4100 6750 5400
+Wire Wire Line
+	5750 4100 5750 5400
+Wire Wire Line
+	4450 4300 4450 5400
+Wire Wire Line
+	3950 4300 3950 5400
+Wire Wire Line
+	2900 4150 2900 5400
+$Comp
+L Device:R R6
+U 1 1 5FFADF2C
+P 7550 5050
+F 0 "R6" H 7620 5096 50  0000 L CNN
+F 1 " 100 C17901" H 7620 5005 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 7480 5050 50  0001 C CNN
+F 3 "~" H 7550 5050 50  0001 C CNN
+	1    7550 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7550 4800 7550 4900
+Connection ~ 7550 5400
+$Comp
+L Device:C C4
+U 1 1 5FFC63C5
+P 2450 3350
+F 0 "C4" H 2565 3396 50  0000 L CNN
+F 1 "10uF C13585" H 2565 3305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2488 3200 50  0001 C CNN
+F 3 "~" H 2450 3350 50  0001 C CNN
+	1    2450 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2450 2950 2450 3200
+Wire Wire Line
+	2450 3500 2450 3700
+Wire Wire Line
+	2200 3700 2450 3700
+Wire Wire Line
+	2200 1250 2900 1250
+Connection ~ 2450 3700
+Wire Wire Line
+	8050 2950 8050 3350
+Wire Wire Line
+	7550 2950 8050 2950
+Wire Wire Line
+	7550 1250 8500 1250
+Wire Wire Line
+	7550 5400 8500 5400
+Wire Wire Line
+	8050 3350 8500 3350
+Connection ~ 8050 3350
+Wire Wire Line
+	8050 3350 8050 3700
+Connection ~ 2200 1250
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 5FFE3181
+P 1450 1250
+F 0 "J1" H 1558 1431 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 1558 1340 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.3mm_L11.0mm" H 1450 1250 50  0001 C CNN
+F 3 "~" H 1450 1250 50  0001 C CNN
+	1    1450 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J3
+U 1 1 5FFE3DCB
+P 1450 2950
+F 0 "J3" H 1558 3131 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 1558 3040 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.3mm_L11.0mm" H 1450 2950 50  0001 C CNN
+F 3 "~" H 1450 2950 50  0001 C CNN
+	1    1450 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 5FFE732F
+P 8700 1250
+F 0 "J2" H 8808 1431 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 8808 1340 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.3mm_L11.0mm" H 8700 1250 50  0001 C CNN
+F 3 "~" H 8700 1250 50  0001 C CNN
+	1    8700 1250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J4
+U 1 1 5FFE9869
+P 8700 3350
+F 0 "J4" H 8808 3531 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 8808 3440 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.3mm_L11.0mm" H 8700 3350 50  0001 C CNN
+F 3 "~" H 8700 3350 50  0001 C CNN
+	1    8700 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J5
+U 1 1 5FFEBDF2
+P 8700 5400
+F 0 "J5" H 8808 5581 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 8808 5490 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.3mm_L11.0mm" H 8700 5400 50  0001 C CNN
+F 3 "~" H 8700 5400 50  0001 C CNN
+	1    8700 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2200 1250 2200 3700
+Connection ~ 2450 2950
+Wire Wire Line
+	1650 1250 1800 1250
+Wire Wire Line
+	1650 2950 1800 2950
+$Comp
+L Device:CP C8
+U 1 1 6001CC19
+P 1800 1700
+F 0 "C8" H 1918 1746 50  0000 L CNN
+F 1 "470uF C3350" H 1918 1655 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_10x10" H 1838 1550 50  0001 C CNN
+F 3 "~" H 1800 1700 50  0001 C CNN
+	1    1800 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 1550 1800 1250
+Connection ~ 1800 1250
+Wire Wire Line
+	1800 1850 1800 2950
+Connection ~ 1800 2950
+Wire Wire Line
+	3750 1650 3700 1650
+Wire Wire Line
+	3700 1650 3700 2100
+$Comp
+L Connector:Conn_01x01_Male J6
+U 1 1 60033D66
+P 3400 2100
+F 0 "J6" H 3508 2281 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3508 2190 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.3mm_L11.0mm" H 3400 2100 50  0001 C CNN
+F 3 "~" H 3400 2100 50  0001 C CNN
+	1    3400 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 2100 3600 2100
+Wire Wire Line
+	3750 4100 3700 4100
+Wire Wire Line
+	3700 4100 3700 4550
+$Comp
+L Connector:Conn_01x01_Male J7
+U 1 1 6005CFA4
+P 3400 4550
+F 0 "J7" H 3508 4731 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3508 4640 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.3mm_L11.0mm" H 3400 4550 50  0001 C CNN
+F 3 "~" H 3400 4550 50  0001 C CNN
+	1    3400 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 4550 3600 4550
+Wire Wire Line
+	1800 1250 2200 1250
+Wire Wire Line
+	1800 2950 2450 2950
+$EndSCHEMATC

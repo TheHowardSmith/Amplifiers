@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+10nF,"C1,C5",Capacitor_SMD:C_0805_2012Metric,C1710
+22uF,"C2,C6",Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D,C122303
+10uF,"C3,C7,C4",Capacitor_SMD:C_0805_2012Metric,C13585
+470uF,C8,Capacitor_SMD:CP_Elec_10x10,C3350
+B340,"D1,D2",Diode_SMD:D_SOD-123,C8598
+100uH,"L1,L2",Inductor_SMD:L_12x12mm_H6mm,C169389
+30k,"R1,R4",Resistor_SMD:R_1206_3216Metric,C17999
+3.3k,"R2,R5",Resistor_SMD:R_1206_3216Metric,C26032
+100R,"R3,R6",Resistor_SMD:R_1206_3216Metric,C17901
+TPS5430DDA,"U1,U2",Package_SO:TI_SO-PowerPAD-8_ThermalVias,C9864

@@ -1,0 +1,340 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 611B31F0
+P 3900 2450
+F 0 "J2" H 4008 2631 50  0000 C CNN
+F 1 "+24V_in" H 4008 2540 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3900 2450 50  0001 C CNN
+F 3 "~" H 3900 2450 50  0001 C CNN
+	1    3900 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J3
+U 1 1 611B3A21
+P 4650 2450
+F 0 "J3" H 4622 2382 50  0000 R CNN
+F 1 "+24V_R" H 4622 2473 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4650 2450 50  0001 C CNN
+F 3 "~" H 4650 2450 50  0001 C CNN
+	1    4650 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 611B3D71
+P 4650 2300
+F 0 "J1" H 4622 2232 50  0000 R CNN
+F 1 "+24V_L" H 4622 2323 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4650 2300 50  0001 C CNN
+F 3 "~" H 4650 2300 50  0001 C CNN
+	1    4650 2300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J4
+U 1 1 611B3FE9
+P 4650 2600
+F 0 "J4" H 4622 2532 50  0000 R CNN
+F 1 "+24V_vol" H 4622 2623 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4650 2600 50  0001 C CNN
+F 3 "~" H 4650 2600 50  0001 C CNN
+	1    4650 2600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J6
+U 1 1 611B47B1
+P 3900 3050
+F 0 "J6" H 4008 3231 50  0000 C CNN
+F 1 "GND_in" H 4008 3140 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3900 3050 50  0001 C CNN
+F 3 "~" H 3900 3050 50  0001 C CNN
+	1    3900 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J7
+U 1 1 611B47B7
+P 4650 3050
+F 0 "J7" H 4622 2982 50  0000 R CNN
+F 1 "GND_R" H 4622 3073 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4650 3050 50  0001 C CNN
+F 3 "~" H 4650 3050 50  0001 C CNN
+	1    4650 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J5
+U 1 1 611B47BD
+P 4650 2900
+F 0 "J5" H 4622 2832 50  0000 R CNN
+F 1 "GND_L" H 4622 2923 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4650 2900 50  0001 C CNN
+F 3 "~" H 4650 2900 50  0001 C CNN
+	1    4650 2900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J8
+U 1 1 611B47C3
+P 4650 3200
+F 0 "J8" H 4622 3132 50  0000 R CNN
+F 1 "GND_vol" H 4622 3223 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4650 3200 50  0001 C CNN
+F 3 "~" H 4650 3200 50  0001 C CNN
+	1    4650 3200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J10
+U 1 1 611B5469
+P 3900 3650
+F 0 "J10" H 4008 3831 50  0000 C CNN
+F 1 "-24V_in" H 4008 3740 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3900 3650 50  0001 C CNN
+F 3 "~" H 3900 3650 50  0001 C CNN
+	1    3900 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J11
+U 1 1 611B546F
+P 4650 3650
+F 0 "J11" H 4622 3582 50  0000 R CNN
+F 1 "-24V_R" H 4622 3673 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4650 3650 50  0001 C CNN
+F 3 "~" H 4650 3650 50  0001 C CNN
+	1    4650 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J9
+U 1 1 611B5475
+P 4650 3500
+F 0 "J9" H 4622 3432 50  0000 R CNN
+F 1 "-24V_L" H 4622 3523 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4650 3500 50  0001 C CNN
+F 3 "~" H 4650 3500 50  0001 C CNN
+	1    4650 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J13
+U 1 1 611B6BD5
+P 3900 4350
+F 0 "J13" H 4008 4531 50  0000 C CNN
+F 1 "Amp_Out_L" H 4008 4440 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3900 4350 50  0001 C CNN
+F 3 "~" H 3900 4350 50  0001 C CNN
+	1    3900 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J12
+U 1 1 611B703C
+P 4450 4200
+F 0 "J12" H 4422 4132 50  0000 R CNN
+F 1 "SpeakON_Out_L" H 4422 4223 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4450 4200 50  0001 C CNN
+F 3 "~" H 4450 4200 50  0001 C CNN
+	1    4450 4200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J14
+U 1 1 611B72BA
+P 4450 4500
+F 0 "J14" H 4422 4432 50  0000 R CNN
+F 1 "Banana_Out_L" H 4422 4523 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4450 4500 50  0001 C CNN
+F 3 "~" H 4450 4500 50  0001 C CNN
+	1    4450 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J16
+U 1 1 611B7BA1
+P 3900 5450
+F 0 "J16" H 4008 5631 50  0000 C CNN
+F 1 "Amp_Out_R" H 4008 5540 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3900 5450 50  0001 C CNN
+F 3 "~" H 3900 5450 50  0001 C CNN
+	1    3900 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J15
+U 1 1 611B7BA7
+P 4450 5300
+F 0 "J15" H 4422 5232 50  0000 R CNN
+F 1 "SpeakON_Out_R" H 4422 5323 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4450 5300 50  0001 C CNN
+F 3 "~" H 4450 5300 50  0001 C CNN
+	1    4450 5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J17
+U 1 1 611B7BAD
+P 4450 5600
+F 0 "J17" H 4422 5532 50  0000 R CNN
+F 1 "Banana_Out_R" H 4422 5623 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4450 5600 50  0001 C CNN
+F 3 "~" H 4450 5600 50  0001 C CNN
+	1    4450 5600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4100 2450 4300 2450
+Wire Wire Line
+	4300 2450 4300 2300
+Wire Wire Line
+	4300 2300 4450 2300
+Connection ~ 4300 2450
+Wire Wire Line
+	4300 2450 4450 2450
+Wire Wire Line
+	4300 2450 4300 2600
+Wire Wire Line
+	4300 2600 4450 2600
+Wire Wire Line
+	4100 3050 4300 3050
+Wire Wire Line
+	4300 3050 4300 2900
+Wire Wire Line
+	4300 2900 4450 2900
+Connection ~ 4300 3050
+Wire Wire Line
+	4300 3050 4450 3050
+Wire Wire Line
+	4300 3050 4300 3200
+Wire Wire Line
+	4300 3200 4450 3200
+Wire Wire Line
+	4100 3650 4300 3650
+Wire Wire Line
+	4300 3650 4300 3500
+Wire Wire Line
+	4300 3500 4450 3500
+Connection ~ 4300 3650
+Wire Wire Line
+	4300 3650 4450 3650
+Wire Wire Line
+	4100 4350 4100 4200
+Wire Wire Line
+	4100 4200 4250 4200
+Wire Wire Line
+	4100 4350 4100 4500
+Wire Wire Line
+	4100 4500 4250 4500
+Connection ~ 4100 4350
+Wire Wire Line
+	4100 5450 4100 5300
+Wire Wire Line
+	4100 5300 4250 5300
+Wire Wire Line
+	4100 5450 4100 5600
+Wire Wire Line
+	4100 5600 4250 5600
+Connection ~ 4100 5450
+$Comp
+L Connector:Conn_01x01_Male J19
+U 1 1 611C3806
+P 3900 4900
+F 0 "J19" H 4008 5081 50  0000 C CNN
+F 1 "Amp_GND_L" H 4008 4990 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3900 4900 50  0001 C CNN
+F 3 "~" H 3900 4900 50  0001 C CNN
+	1    3900 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J18
+U 1 1 611C380C
+P 4450 4750
+F 0 "J18" H 4422 4682 50  0000 R CNN
+F 1 "SpeakON_GND_L" H 4422 4773 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4450 4750 50  0001 C CNN
+F 3 "~" H 4450 4750 50  0001 C CNN
+	1    4450 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J20
+U 1 1 611C3812
+P 4450 5050
+F 0 "J20" H 4422 4982 50  0000 R CNN
+F 1 "Banana_GND_L" H 4422 5073 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4450 5050 50  0001 C CNN
+F 3 "~" H 4450 5050 50  0001 C CNN
+	1    4450 5050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4100 4900 4100 4750
+Wire Wire Line
+	4100 4750 4250 4750
+Wire Wire Line
+	4100 4900 4100 5050
+Wire Wire Line
+	4100 5050 4250 5050
+Connection ~ 4100 4900
+$Comp
+L Connector:Conn_01x01_Male J22
+U 1 1 611C6183
+P 3900 6000
+F 0 "J22" H 4008 6181 50  0000 C CNN
+F 1 "Amp_GND_R" H 4008 6090 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3900 6000 50  0001 C CNN
+F 3 "~" H 3900 6000 50  0001 C CNN
+	1    3900 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J21
+U 1 1 611C6189
+P 4450 5850
+F 0 "J21" H 4422 5782 50  0000 R CNN
+F 1 "SpeakON_GND_R" H 4422 5873 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4450 5850 50  0001 C CNN
+F 3 "~" H 4450 5850 50  0001 C CNN
+	1    4450 5850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J23
+U 1 1 611C618F
+P 4450 6150
+F 0 "J23" H 4422 6082 50  0000 R CNN
+F 1 "Banana_GND_R" H 4422 6173 50  0000 R CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4450 6150 50  0001 C CNN
+F 3 "~" H 4450 6150 50  0001 C CNN
+	1    4450 6150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4100 6000 4100 5850
+Wire Wire Line
+	4100 5850 4250 5850
+Wire Wire Line
+	4100 6000 4100 6150
+Wire Wire Line
+	4100 6150 4250 6150
+Connection ~ 4100 6000
+$EndSCHEMATC
